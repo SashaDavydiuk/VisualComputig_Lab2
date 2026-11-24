@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource>
+        <file>shaders/vert_shader.glsl</file>
+        <file>shaders/frag_shader.glsl</file>
+    </qresource>
+</RCC>
